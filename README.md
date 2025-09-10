@@ -37,6 +37,6 @@ GitHub for project documentation
 
 🚀 How to Use
 Clone this repo:
-git clone https:https://github.com/shivadumpeta33-droid/pizza-sales-dashboard/blob/main/Pizza%20sales.pbit
+git clone https://github.com/shivadumpeta33-droid/pizza-sales-dashboard
 open the https://github.com/shivadumpeta33-droid/pizza-sales-dashboard/blob/main/Pizza%20sales.pbit
 View screenshots in the images/ folder.

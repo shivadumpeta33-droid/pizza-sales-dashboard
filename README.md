@@ -37,6 +37,6 @@ GitHub for project documentation
 
 🚀 How to Use
 Clone this repo:
-git clone https://github.com/yourusername/pizza-sales-dashboard.git
-open the .pbix file in Power BI to explore the dashboards.
+git clone https:https://github.com/shivadumpeta33-droid/pizza-sales-dashboard/blob/main/Pizza%20sales.pbit
+open the https://github.com/shivadumpeta33-droid/pizza-sales-dashboard/blob/main/Pizza%20sales.pbit
 View screenshots in the images/ folder.
